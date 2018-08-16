@@ -1,2 +1,2 @@
-# DHT11-Thermostat-Climate-Control
+# Arduino - DHT11 Thermostat-Relay Control-Climate Control
 DHT11 based thermostat to switch ON or OFF an Airconditioner by grabbing the room temperature at the start of the cycle. Then cooling the room by 2 degrees or as needed before cutting power to the Aircon. Then waiting for the temperature to rise by a set level before switching ON power to the Aircon again but not before a minimum amount of determined time has elapsed so as to protect the Compressor from damage by preventing early switch on.
